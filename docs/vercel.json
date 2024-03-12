@@ -1,0 +1,7 @@
+{
+ "name": "校企益邦使用手册",
+ "public": true,
+  "buildCommand": "gitbook build . _book",
+  "installCommand": "npm install -g gitbook-cli gitbook@3.2.3",
+  "outputDirectory": "_book"
+}
